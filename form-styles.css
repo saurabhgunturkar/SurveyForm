@@ -1,6 +1,6 @@
 *{
     max-width: 100%;
-    max-height: 1200px;
+    max-height: 1500px;
 
 }
 
@@ -37,12 +37,12 @@ body::before{
 }
 
 #survey-form{
-    max-height: 1400px;
+   height: 1400px;
     max-width: 820px;
      align-items: center;
     border-radius: 5px;
    background-color: rgba(15, 21, 14, 0.8);
-   margin-left: 350px;
+  margin: auto;
    justify-content: center; 
  
 }
@@ -128,7 +128,7 @@ body::before{
     border: solid 2px black;
     border-radius: 5px;
     box-shadow: 10px 10px;
-    content: '';
+   
 }
 
 
